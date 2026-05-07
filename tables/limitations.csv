@@ -1,0 +1,8 @@
+Limitation,Evidence,Impact
+Aftershock contamination (DL),WaveNet Himalaya dROC=-0.194 (mainshock vs full catalog),"DL models are seismicity-state classifiers, not mainshock precursor detectors"
+NE India model failure,ROC=0.38-0.44 for M>=5.5 and M>=6.0 (below chance),Shillong Plateau / Myanmar arc need zone-specific features
+Andaman zone-specific dynamics,Cross-zone ROC=0.275 (anti-predictive from other zones),2004 aftershock sequence dominates; model not transferable to other zones
+ISC-GEM coverage gap post-2021,"isc_gap=True for 4,326 events (15.6% of catalog)",No cross-catalog validation for 2022-2026 period
+Makran data sparsity,"756 total events, 2 M>=6 training examples",Makran M>=6 ROC=0.997 is overfit artifact; not reliable
+Short test evaluation window,Test set: 2024-present (~1.5 years),Bootstrap CIs are wide; longer prospective evaluation needed
+NCS coverage starts 2019,NCS data available only from August 2019,National catalog limited to 6-year window; older events rely on USGS and ISC-GEM

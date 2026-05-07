@@ -1,0 +1,3 @@
+zone,model,catalog,ROC_full,ROC_mainshock,ΔROC,BSS_full,BSS_mainshock,runtime_s
+Himalaya_HinduKush,WaveNet,mainshock_only,0.6401,0.4464,-0.1937,0.023,0.021,56.6
+Andaman_Nicobar,WaveNet,mainshock_only,0.5012,0.4406,-0.0606,-0.3584,-0.4662,48.5

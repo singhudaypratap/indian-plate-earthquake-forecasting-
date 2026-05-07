@@ -1,0 +1,6 @@
+model,target,ROC_AUC,p_value,significant,n_permutations
+XGB/LR,M>=5.5,0.7247,0.0,***,1000
+XGB/LR,M>=6.0,0.5964,0.0,***,1000
+XGB/LR,M>=6.5,0.7765,0.0,***,1000
+WaveNet_Himalaya_HinduKush,M>=5.5,0.6401,0.0,***,1000
+TCN_Andaman_Nicobar,M>=5.5,0.5312,0.122,ns,1000

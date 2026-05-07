@@ -1,0 +1,2 @@
+target_definition,M_threshold,label_rate_full,label_rate_mainshock,pct_aftershock_windows,BRF_ROC_full_target,BRF_ROC_mainshock_target,BRF_BSS_full_target,BRF_BSS_mainshock_target
+mainshock_only,5.5,0.177,0.1538,13.1,0.6754,0.717,0.0122,0.0907

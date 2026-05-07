@@ -1,0 +1,7 @@
+Python: 3.12.13
+Platform: Linux-6.6.113+-x86_64-with-glibc2.35
+NumPy: 2.0.2
+Pandas: 2.2.2
+Scikit-Learn: 1.6.1
+PyTorch: 2.10.0+cu128
+SHAP: 0.51.0
