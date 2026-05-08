@@ -1,0 +1,30 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+title: "Machine Learning-Based Short-Term Earthquake Forecasting for the Indian Plate Seismogenic System"
+authors:
+  - family-names: "Singh"
+    given-names: "Uday Pratap"
+    affiliation: "Poornima Institute of Engineering and Technology, Jaipur & University of Allahabad, India"
+    email: "udaypratap@allduniv.ac.in"
+    orcid: "https://orcid.org/0000-0001-7573-8550"
+  - family-names: "Kumari"
+    given-names: "Bersha"
+    affiliation: "Poornima Institute of Engineering and Technology, Jaipur, India"
+    email: "bersha.kumari@poornima.org"
+    orcid: "https://orcid.org/0009-0000-0724-8875"
+  - family-names: "Siddiqui"
+    given-names: "Ebtasam Ahmad"
+    affiliation: "Poornima Institute of Engineering and Technology, Jaipur, India"
+    email: "ebtasam.siddiqui@poornima.org"
+    orcid: "https://orcid.org/0000-0002-0323-5441"
+date-released: 2026-05-07
+url: "https://github.com/YOUR_USERNAME/indian-plate-earthquake-forecasting"
+repository-code: "https://github.com/YOUR_USERNAME/indian-plate-earthquake-forecasting"
+keywords:
+  - earthquake forecasting
+  - machine learning
+  - seismology
+  - deep learning
+  - SHAP
+  - ETAS
+license: "MIT"

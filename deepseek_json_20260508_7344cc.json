@@ -1,0 +1,43 @@
+{
+    "title": "Machine Learning-Based Short-Term Earthquake Forecasting for the Indian Plate Seismogenic System: A Multi-Zone, Multi-Threshold Ensemble Study with Interpretability and ETAS Benchmarking",
+    "description": "Code and data for multi-zone, multi-threshold ML earthquake forecasting study on the Indian plate. Includes tabular (LR, BRF, XGB) and deep learning (LSTM, TCN, WaveNet, Transformer) models, ETAS benchmark, SHAP interpretability, and MC-Dropout uncertainty quantification.",
+    "creators": [
+        {
+            "name": "Singh, Uday Pratap",
+            "affiliation": "Poornima Institute of Engineering and Technology, Jaipur & University of Allahabad, India",
+            "orcid": "0000-0001-7573-8550"
+        },
+        {
+            "name": "Kumari, Bersha",
+            "affiliation": "Poornima Institute of Engineering and Technology, Jaipur, India",
+            "orcid": "0009-0000-0724-8875"
+        },
+        {
+            "name": "Siddiqui, Ebtasam Ahmad",
+            "affiliation": "Poornima Institute of Engineering and Technology, Jaipur, India",
+            "orcid": "0000-0002-0323-5441"
+        }
+    ],
+    "keywords": [
+        "earthquake forecasting",
+        "machine learning",
+        "Indian plate",
+        "deep learning",
+        "SHAP",
+        "ETAS",
+        "seismology",
+        "Balanced Random Forest",
+        "XGBoost",
+        "WaveNet"
+    ],
+    "license": "MIT",
+    "upload_type": "software",
+    "access_right": "open",
+    "related_identifiers": [
+        {
+            "identifier": "https://github.com/YOUR_USERNAME/indian-plate-earthquake-forecasting",
+            "relation": "isSupplementTo",
+            "resource_type": "software"
+        }
+    ]
+}
